@@ -55,3 +55,5 @@ npx shadcn@latest add @react-bits/LineWaves-JS-CSS
 ```
 
 The current project keeps the login animation dependency-light and does not require WebGL/OGL just for the authentication screen.
+made by 
+aryan , sneha , miheer , manthan 
