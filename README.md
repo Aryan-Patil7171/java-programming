@@ -1,6 +1,6 @@
 # java-programming
 
-## PharmaCare — Team 12
+## PharmaCare — Team 1
 
 Premium React/Vite UI for the Pharmacy Inventory and Billing Management System.
 
